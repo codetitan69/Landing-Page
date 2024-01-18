@@ -68,7 +68,7 @@ a:active{
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 18px;
-    padding-bottom: 80px;
+    padding-bottom: 40px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -85,4 +85,28 @@ a:active{
     color: #1F2937;
     font-weight: bolder;
     font-size: 36px;
+}
+
+/* Qoute section */
+
+.Qoutes{
+    padding-left: 220px;
+    padding-right: 220px;
+    padding-top: 48px;
+    padding-bottom: 40px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+}
+
+.qoute{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    align-self: center;
+}
+
+.author{
+    align-self: flex-end;
 }
