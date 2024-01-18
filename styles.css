@@ -143,4 +143,16 @@ a:active{
     border-radius: 6px;
     padding: 4px 20px;
     margin-left: 230px;
+    border-style:solid;
+}
+
+/* Footer */
+.footer{
+    color: #F9FAF8;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
